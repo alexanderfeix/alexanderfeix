@@ -7,8 +7,8 @@ Previously, i completed some open-source projects which involved Retrieval-Augme
 ## 👨🏻‍💻 My Tech Stack
 - **Backend**: Python, Java, PyTorch, LangChain, SQL, FastAPI, Vector Databases, RASA, ROS
 - **Frontend**: React, TypeScript, HTML, CSS
-- **Cloud**: AWS, Google Cloud
-- **Other**: Docker, Git, Lovable, Cursor, Supabase, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib
+- **Cloud**: AWS, Google Cloud Run
+- **Other**: Docker, Ollama, Lovable, Cursor, Supabase, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib, Neo4j
 
 ## 🚀 Project Overview
 - 👨🏼‍⚕️ **AI-powered Doctor Notes Application**
