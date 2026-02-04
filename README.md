@@ -5,10 +5,10 @@ I’m passionate about the intersection of **Software Engineering** and **Machin
 Previously, i completed some open-source projects which involved Retrieval-Augmented-Generation (RAG), model fine-tuning, machine learning algorithms and other relevant software-development projects, which can be found at my account here.
 
 ## 👨🏻‍💻 My Tech Stack
-- **Backend**: Python, Java, PyTorch, LangChain, SQL, FastAPI, Vector Databases, RASA, ROS
+- **Backend**: Python, Java, PyTorch, SQL, JavaScript, FastAPI, LangChain, Vector Databases, RASA, ROS
 - **Frontend**: React, TypeScript, HTML, CSS
-- **Cloud**: AWS, Google Cloud Run
-- **Other**: Docker, Ollama, Lovable, Cursor, Supabase, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib, Neo4j
+- **Cloud**: AWS, Azure, Google Cloud Run
+- **Other**: Docker, Ollama, Lovable, Cursor, Supabase, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib, Neo4j, n8n
 
 ## 🚀 Project Overview
 - 👨🏼‍⚕️ **AI-powered Doctor Notes Application**
@@ -32,6 +32,9 @@ proposed paths
 - B.Sc. in Computer Science @ Technical University of Applied Sciences Augsburg
 
 ## 📁 Work Experience
+- 🔥 **AI Engineer Working Student @ Allianz SE**
+  - Design, development, and research of emerging AI-driven applications and solutions using Generative AI, NLP, Machine Learning, and Deep Learning in the core team of AI acceleration in the global Allianz group
+  - Tech: Python, LangChain, PyTorch, HuggingFace Transformers, Docker
 - ⚡️ **Machine Learning Bachelor Thesis @ BMW Group**
   - Built an internal Q&A chatbot for project data with 78% accuracy and 94% precision/recall; active use in
 the department.
