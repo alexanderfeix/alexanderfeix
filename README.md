@@ -50,6 +50,7 @@ the department.
 racecar
 
 ## 📌 Publications, Hackathons and Awards
+- [Check24 GenDev IT Scholarship](https://www.talents.check24.de/gendev)
 - [CDTM Hackathon 2025](https://hacks.cdtm.com/projects/2025/project-8527)
 - [Research Project](https://arxiv.org/abs/2408.16601) in Sweden and publication about LLMs, ChatGPT and GitHub Copilot
 - 1st place in the driverless category at the [Formula Student Germany (FSG)](https://www.youtube.com/watch?v=9MWKDJeAEDU&ab_channel=StarkStromAugsburge.V.) event in 2022
