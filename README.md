@@ -22,8 +22,6 @@ AI-powered full-stack application for note summarization, tagging, and risk clas
 
 **Repo:** [Tagnosis](https://github.com/alexanderfeix/tagnosis)
 
----
-
 ### BMW Bachelor Thesis
 Built an internal Q&A chatbot using a hybrid retrieval architecture combining **VectorRAG** and **GraphRAG** over **80k documents**.
 
@@ -31,8 +29,6 @@ Built an internal Q&A chatbot using a hybrid retrieval architecture combining **
 - Reached **94% retrieval precision / recall**
 - Used internally within the department
 - Stack: **Python, LangChain, Neo4j, Docker, Streamlit, spaCy**
-
----
 
 ### University AI Chatbot
 Led development of a retrieval-based chatbot answering student questions using university web content.
