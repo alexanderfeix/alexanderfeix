@@ -1,56 +1,80 @@
-# Hi, I'm Alex ✌🏼
+# Hi, I'm Alex ✌🏻
 
-I’m passionate about the intersection of **Software Engineering** and **Machine Learning**, with a focus on building practical solutions, exploring new technologies, especially in the field of **Generative AI**.
+M.Sc. Computer Science student at **LMU Munich** focused on **software engineering for ML and LLM systems**.
 
-Previously, i completed some open-source projects which involved Retrieval-Augmented-Generation (RAG), model fine-tuning, machine learning algorithms and other relevant software-development projects, which can be found at my account here.
+I build production-oriented AI applications, retrieval systems, and full-stack ML products, from evaluation frameworks and RAG pipelines to deployable backend services.
 
-## 👨🏻‍💻 My Tech Stack
-- **Backend**: Python, Java, PyTorch, SQL, JavaScript, FastAPI, LangChain, Vector Databases, RASA, ROS
-- **Frontend**: React, TypeScript, HTML, CSS
+## 🎯 What I'm focused on
+- Software engineering for ML / LLM systems
+- Retrieval, RAG, and evaluation pipelines
+- Applied NLP and production-oriented AI systems
+- Backend development and full-stack AI applications
+
+## 🚀 Featured Projects
+
+### Tagnosis
+AI-powered full-stack application for note summarization, tagging, and risk classification in mental health workflows.
+
+- Improved tag precision / recall / F1 by **2–3x** over a 1.7B base model
+- Achieved **98% JSON validity**
+- Built data pipeline with **3,000+ crawled posts** and **2,000+ synthetic examples**
+- Stack: **PyTorch, Hugging Face, FastAPI, React, Supabase, Docker, Google Cloud**
+
+**Repo:** [Tagnosis](https://github.com/alexanderfeix/tagnosis)
+
+---
+
+### BMW Bachelor Thesis
+Built an internal Q&A chatbot using a hybrid retrieval architecture combining **VectorRAG** and **GraphRAG** over **80k documents**.
+
+- Achieved **78% answer accuracy**
+- Reached **94% retrieval precision / recall**
+- Used internally within the department
+- Stack: **Python, LangChain, Neo4j, Docker, Streamlit, spaCy**
+
+---
+
+### University AI Chatbot
+Led development of a retrieval-based chatbot answering student questions using university web content.
+
+- Combined structured conversational flows with retrieval-based generation
+- Stack: **LangChain, Ollama, RASA, Streamlit, SQL, Docker, Python**
+
+**Repo:** [University Chatbot](https://github.com/alexanderfeix/tha_chatbot)
+
+## 👁️ Experience Highlights
+
+### Allianz Technologies - Machine Learning Working Student
+- Built and deployed an enterprise knowledge assistant for Allianz Malaysia
+- Developed an internal benchmarking framework for comparing retrieval systems and retriever models using common NLP and retrieval metrics
+- Worked with **Python, Haystack, PyTorch, Hugging Face, Azure, Docker, Databricks**
+
+### BMW Group - Bachelor Thesis
+- Designed and implemented a hybrid RAG-based internal Q&A assistant for large-scale enterprise knowledge retrieval
+
+### StarkStrom Augsburg e.V. - Software Engineer & Team Lead
+- Led the AI and planning subteam of **20 engineers** building an autonomous racecar
+- Worked on object detection, path planning, and system design
+- Won **1st place** in the driverless category at Formula Student Germany
+
+## ⚙️ Tech Stack
+
+- **Backend**: Python, Java, PyTorch, SQL, JS, FastAPI, LangChain
+- **Frontend**: React, TypeScript
 - **Cloud**: AWS, Azure, Google Cloud Run
-- **Other**: Docker, Ollama, Lovable, Cursor, Supabase, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib, Neo4j, n8n
+- **Other**: Docker, Ollama, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib, Neo4j, n8n
 
-## 🚀 Project Overview
-- 👨🏼‍⚕️ **AI-powered Doctor Notes Application**
-  - Fine-tuned a small language model on generating mental doctor note summaries, tags and risk-classification
-  - Achieved 2-3x better tag precision/recall/F1 compared to the 1.7B base model, 98% JSON validity rate and
-high-risk recall, and 48% Rouge F1 score
-  - Crawled and cleaned 3000+ Reddit posts and generated 2000+ synthetic data
-  - Tech: PyTorch, HuggingFace, Google Cloud, FastAPI, Python, React, Supabase, Lovable, Docker
-- 👾 **Development of an AI-chatbot for the University**
-  - Led development of a chatbot using Retrieval Augmented Generation (RAG) that answers student questions
-about the university and its content
-  - Tech: LangChain, Ollama, Vector Databases, RASA, SpaCy, Streamlit, SQL, Docker, Python
-- 🏎️ **ML Path Planning for Autonomous Racing**
-  - Concept design of a neural network that finds the optimal racing line through evaluation decisions for various
-proposed paths
-  - Tech: Python, ROS, PyTorch, Transformer Architecture
- 
-
-## 📚 Education
-- **M.Sc. in Computer Science @ LMU Munich** (ongoing)
-- B.Sc. in Computer Science @ Technical University of Applied Sciences Augsburg
-
-## 📁 Work Experience
-- 🔥 **AI Engineer Working Student @ Allianz SE**
-  - Design, development, and research of emerging AI-driven applications and solutions using Generative AI, NLP, Machine Learning, and Deep Learning in the core team of AI acceleration in the global Allianz group
-  - Tech: Python, LangChain, PyTorch, HuggingFace Transformers, Docker
-- ⚡️ **Machine Learning Bachelor Thesis @ BMW Group**
-  - Built an internal Q&A chatbot for project data with 78% accuracy and 94% precision/recall; active use in
-the department.
-  - Designed a hybrid RAG system (VectorRAG & GraphRAG) with over 80k retrievable entities
-  - Tech: Python, LangChain, Neo4j, Docker, Streamlit, SpaCy
-- 👀 **Software Engineering Intern @ ASAP Engineering GmbH**
-  - Development in the area of test automation in ADAS/AD as an external employee of the CARIAD SE
-  - Tech: Python, Automotive Management Tools, Git
-- 🏎️ **Software Engineer and Manager @ StarkStrom Augsburg e.V.**
-  - Development of an autonomous racecar as part of the Formula Student competition
-  - **1st place** in the driverless category at the Formula Student Germany (FSG) event in 2022
-  - Responsibility and experience in object detection, path planning, AI and general concepts of an autonomous
-racecar
+## ✨ Interests
+I'm especially interested in roles and projects at the intersection of:
+- software engineering
+- applied machine learning
+- retrieval systems
+- scalable AI infrastructure
 
 ## 📌 Publications, Hackathons and Awards
 - [Check24 GenDev IT Scholarship](https://www.talents.check24.de/gendev)
 - [CDTM Hackathon 2025](https://hacks.cdtm.com/projects/2025/project-8527)
 - [Research Project](https://arxiv.org/abs/2408.16601) in Sweden and publication about LLMs, ChatGPT and GitHub Copilot
 - 1st place in the driverless category at the [Formula Student Germany (FSG)](https://www.youtube.com/watch?v=9MWKDJeAEDU&ab_channel=StarkStromAugsburge.V.) event in 2022
+
+Always happy to connect :)
