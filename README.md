@@ -27,10 +27,10 @@ I build production-oriented AI applications, retrieval systems, and full-stack M
 
 ## ⚙️ Tech Stack
 
-- **Backend**: Python, Java, PyTorch, SQL, JS, FastAPI, LangChain
+- **Backend**: Python, Java, PyTorch, SQL, JS, FastAPI, PyTorch, LangChain
 - **Frontend**: React, TypeScript
 - **Cloud**: AWS, Azure, Google Cloud Run
-- **Other**: Docker, Ollama, Streamlit, HuggingFace, Unsloth, Pandas, Matplotlib, Neo4j, n8n
+- **Other**: Docker, Ollama, Streamlit, HuggingFace, Pandas, Matplotlib, Neo4j, n8n, ROS2, MCP
 
 ## ✨ Interests
 I'm especially interested in roles and projects at the intersection of:
